@@ -1,0 +1,8 @@
+C:\Users\furkan\source\repos\TrafficDB\TrafficDB\bin\Debug\TrafficDB.dll
+C:\Users\furkan\source\repos\TrafficDB\TrafficDB\bin\Debug\TrafficDB.pdb
+C:\Users\furkan\source\repos\TrafficDB\TrafficDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furkan\source\repos\TrafficDB\TrafficDB\bin\Debug\EntityFramework.dll
+C:\Users\furkan\source\repos\TrafficDB\TrafficDB\obj\Debug\TrafficDB.csproj.CoreCompileInputs.cache
+C:\Users\furkan\source\repos\TrafficDB\TrafficDB\obj\Debug\TrafficDB.csproj.CopyComplete
+C:\Users\furkan\source\repos\TrafficDB\TrafficDB\obj\Debug\TrafficDB.dll
+C:\Users\furkan\source\repos\TrafficDB\TrafficDB\obj\Debug\TrafficDB.pdb

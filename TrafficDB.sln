@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficDB", "TrafficDB\TrafficDB.csproj", "{F7308A27-0CEE-402E-BAA5-EE3CCC4245BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traffic.Web.Api", "Traffic.Web.Api\Traffic.Web.Api.csproj", "{D9430FC4-C357-420C-8B24-AD1444C37133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7308A27-0CEE-402E-BAA5-EE3CCC4245BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7308A27-0CEE-402E-BAA5-EE3CCC4245BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7308A27-0CEE-402E-BAA5-EE3CCC4245BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7308A27-0CEE-402E-BAA5-EE3CCC4245BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9430FC4-C357-420C-8B24-AD1444C37133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9430FC4-C357-420C-8B24-AD1444C37133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9430FC4-C357-420C-8B24-AD1444C37133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9430FC4-C357-420C-8B24-AD1444C37133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0067DD7B-BACD-4F51-9316-5660D5A30E0B}
+	EndGlobalSection
+EndGlobal
